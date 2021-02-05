@@ -1,0 +1,34 @@
+A large literature examines the link between firm fundamentals and future stock returns
+(e.g., Ou and Penman 1989; Bernard and Thomas 1990; Holthausen and Larcker 1992;
+Sloan 1996; Abarbanell and Bushee 1997, 1998; Piotroski 2000). Typically, the
+motivation for this line of research is that firm fundamentals are reflected in accounting data, which
+are informative about a firm’s future cash flows, and that investors do not fully impound this
+information into stock prices. But since financial statement information is backward-looking, it is
+beneficial for investors to identify early indicators of firm fundamental changes that are not yet
+reflected in financial statements. In this paper, we examine whether a change in analyst interest,
+proxied by either the onset of non-covering sell-side equity analysts who participate in a firm’s
+earnings conference call or by the absence of participation from covering analysts, is an early
+indicator of not only firm fundamental changes, but also of future capital market activities and stock
+returns.
+Our focus on analyst interest stems from two observations. First, prior research shows that
+analysts are sophisticated experts with deep industry knowledge (Mikhail, Walther, and Willis
+1999; Asquith, Mikhail, and Au 2005; Kadan, Madureira, Wang, and Zach 2012). Based on their
+knowledge of new products, customers, and market opportunities within an industry, analysts are
+keenly aware of shifting competitive positions between industry leaders, laggards, up-and-comers,
+and new entrant firms. Their expertise allows them to foresee future changes in firms’ fundamentals,
+well before such information is reflected in the financial statements of individual firms. Second,
+before an analyst initiates coverage on a firm, he or she must conduct due diligence. Analyst due
+diligence has not been explored in the extant literature, as many of the activities analysts perform
+before and after coverage initiations have been described as a black box (Ramnath, Rock, and
+Shane 2008; Bradshaw 2011). We explore one aspect of analyst due diligence and document that
+analysts regularly participate in a firm’s earnings conference calls before initiating coverage on the
+firm.1 This practice is common because listening to and asking a question during a firm’s
+conference call is part of an extensive, and sometimes lengthy, due diligence process. For example,
+Sanford C. Bernstein & Co., a top-ranked sell-side equity research firm in Institutional Investor’s
+annual All-American Research Survey, gives newly hired analysts up to one year to conduct due
+diligence on firms before initiating coverage on them (Koo 2012). In a similar vein, analysts who
+already cover a firm are often absent from, or silent on (do not ask a question), the firm’s conference
+call if they have lost interest in the firm or intend to drop coverage.2
+We posit that an onset of analysts who do not cover a given firm (‘‘non-covering analysts’’), but
+participate in that firm’s earnings conference call, captures increasing analyst interest in the firm,
+while analyst absenteeism captures decreasing analyst interest in the firm.
